@@ -1,11 +1,11 @@
 # Site settings
 title: Maureen McNeil Reality
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+email: maureenmcneilreality@gmail.com
+url: https://maureenmcneilreality.com
+description: "Take a deep breath and relax. I am ready to guide you through your real estate journey. I believe that real estate is so much more than a building on a lot. It’s about family, community, relationships and finding somewhere you can feel truly at home."
+keywords: "Maureen McNeil Reality, REMAX New England, REMAX Connecticut, REMAX Rhode Island, REMAX Massachusetts, Bell Park REMAX"
+skills: "Real Estate Agent - RE/MAX Bell Park - CT, MA, RI"
+meta_author: McNeil Maureen
 
 # Google webmaster tools
 google_verify:
