@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: MaureenMcNeilReality.com
+  copyright: <em>MaureenMcNeilReality.com</em>
   address:
   social: Connect
   credits:
