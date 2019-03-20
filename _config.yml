@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright:
-  remax bell park: RE/MAX Bell Park
+  address: RE/MAX Bell Park
   social: Social Media
   contact: Contact Me
 
@@ -44,7 +44,7 @@ social:
     url: https://www.facebook.com/maureenmcneil317/
 
 # Postal address (add as many lines as necessary)
-remax bell park:
+address:
   - line: 610 Hartford Pike,
   - line: Killingly, CT 06241
   
