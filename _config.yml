@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: MaureenMcNeilReality.com
-  address: REMAX Bell Park 
+  address:
   social: Connect
-  credits: Reach Me
+  credits:
 
 # Postal address (add as many lines as necessary)
 address:
