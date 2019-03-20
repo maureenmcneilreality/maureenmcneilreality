@@ -48,7 +48,10 @@ address:
   - line: Killingly, CT 06241
   
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+address:
+  - line: Mobile: 8607530334
+  - line: Office: 8607747600
+  - line: Email: MaureenMcNeil2017@gmail.com
   
 # Build settings
 markdown: kramdown
