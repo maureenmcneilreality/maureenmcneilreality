@@ -37,11 +37,6 @@ footer:
   social: Social Media
   credits: Credits
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: facebook
-    url: https://www.facebook.com/maureenmcneil317/
-
 # Postal address (add as many lines as necessary)
 address:
   - line: 610 Hartford Pike,
@@ -49,6 +44,11 @@ address:
   - line: Mobile: 860 753 0334
   - line: Office: 860 774 7600
   - line: Email: MaureenMcNeil2017@gmail.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/maureenmcneil317/
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
