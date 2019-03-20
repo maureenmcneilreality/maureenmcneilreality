@@ -35,7 +35,6 @@ footer:
   copyright:
   address: Address
   social: Social Media
-  address: Contact Me
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -47,14 +46,10 @@ social:
 address:
   - line: 610 Hartford Pike,
   - line: Killingly, CT 06241
-   - line: 610 Hartford Pike,
-  - line: Killingly, CT 06241
+  - line: Mobile: 860.753.0334
+  - line: Office: 860.774.7600
+  - line: Email: MaureenMcNeil2017@gmail.com
   
-# Postal address (add as many lines as necessary)
-address:
-  - line: 610 Hartford Pike,
-  - line: Killingly, CT 06241
-
   
 # Build settings
 markdown: kramdown
