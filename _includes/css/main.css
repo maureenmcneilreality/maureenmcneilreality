@@ -364,6 +364,7 @@ footer .footer-below {
 .btn:active,
 .btn.active {
     outline: 0;
+    background: #2C3E50;
 }
 
 .scroll-top {
