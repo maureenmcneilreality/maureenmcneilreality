@@ -361,9 +361,12 @@ footer .footer-below {
     line-height: 45px;
 }
 
-.btn:focus,
-.btn:active,
+.btn:focus {
+    background: #2C3E50};
+.btn:active {
+    background: #2C3E50};
 .btn.active {
+    background: #2C3E50;
     outline: 0;
 }
 
